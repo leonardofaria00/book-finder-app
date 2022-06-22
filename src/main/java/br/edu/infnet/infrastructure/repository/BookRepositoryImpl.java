@@ -1,8 +1,8 @@
-package br.edu.infnet.infrastructure.repository.bookfinder;
+package br.edu.infnet.infrastructure.repository;
 
-import br.edu.infnet.domain.model.data.bookfinder.Book;
-import br.edu.infnet.domain.model.data.bookfinder.BookCategory;
-import br.edu.infnet.domain.repository.bookfinder.BookRepository;
+import br.edu.infnet.domain.model.data.Book;
+import br.edu.infnet.domain.model.data.BookCategory;
+import br.edu.infnet.domain.repository.BookRepository;
 import org.springframework.stereotype.Repository;
 
 import java.util.ArrayList;

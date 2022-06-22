@@ -1,4 +1,4 @@
-package br.edu.infnet.domain.model.data.bookfinder;
+package br.edu.infnet.domain.model.data;
 
 public class Book {
 
