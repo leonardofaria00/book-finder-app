@@ -1,6 +1,6 @@
-package br.edu.infnet.controller.bookfinder;
+package br.edu.infnet.application.controller.bookfinder;
 
-import br.edu.infnet.model.bookfinder.data.Book;
+import br.edu.infnet.domain.model.data.bookfinder.Book;
 import org.springframework.http.ResponseEntity;
 
 import java.util.List;
