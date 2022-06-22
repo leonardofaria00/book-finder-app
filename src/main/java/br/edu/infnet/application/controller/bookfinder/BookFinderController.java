@@ -1,8 +1,8 @@
-package br.edu.infnet.controller.bookfinder;
+package br.edu.infnet.application.controller.bookfinder;
 
-import br.edu.infnet.model.bookfinder.data.Book;
-import br.edu.infnet.model.bookfinder.service.BookService;
-import br.edu.infnet.model.bookfinder.service.impl.BookServiceImpl;
+import br.edu.infnet.domain.model.data.bookfinder.Book;
+import br.edu.infnet.domain.service.bookfinder.BookService;
+import br.edu.infnet.domain.service.bookfinder.BookServiceImpl;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
